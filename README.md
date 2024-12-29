@@ -1,5 +1,3 @@
-![Auto Assign](https://github.com/papasi-team/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
 ![Proof HTML](https://github.com/papasi-team/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 # Welcome to your organization's demo respository
@@ -9,5 +7,6 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 # Members
 - Team Lead [Hossein Habibi](https://github.com/hosseinhabibi2004)
-- Front-End [Zahra Mohammadi](https://github.com/zahramohammadi078)
-- Front-End Developer [Dilan Biou](https://github.com/Dilan-Biou)
+- Backend Developer [Mahdi Dehghan](https://github.com/mahdidehghandev)
+- Frontend Developer [Pouya Beheshti](https://github.com/Pouyaa-Dev)
+- Frontend Developer [Dilan Biou](https://github.com/Dilan-Biou)
