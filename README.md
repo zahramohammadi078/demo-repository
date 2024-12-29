@@ -1,5 +1,3 @@
-![Auto Assign](https://github.com/papasi-team/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
 ![Proof HTML](https://github.com/papasi-team/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 # Welcome to your organization's demo respository
