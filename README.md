@@ -9,3 +9,4 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 - Team Lead [Hossein Habibi](https://github.com/hosseinhabibi2004)
 - Backend Developer [Mahdi Dehghan](https://github.com/mahdidehghandev)
 - Frontend Developer [Pouya Beheshti](https://github.com/Pouyaa-Dev)
+- Frontend Developer [Dilan Biou](https://github.com/Dilan-Biou)
